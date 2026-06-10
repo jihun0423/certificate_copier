@@ -29,8 +29,8 @@
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/{your-username}/{repo-name}.git
-cd {repo-name}
+git clone https://github.com/{jihun0423}/{certificate_copier}.git
+cd {certificate_copier}
 ```
 
 ### 2. 실행
